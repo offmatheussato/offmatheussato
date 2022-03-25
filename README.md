@@ -1,4 +1,4 @@
-## Olá Mundo! Eu sou o Matheus Sato.
+## Olá! Eu sou o Matheus Sato.
 
 <div align="center">
   <a href="https://github.com/offmatheussato">
