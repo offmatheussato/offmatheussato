@@ -6,7 +6,7 @@ em :
   workflow_dispatch :
 
 empregos :
-  construir :
+  construir : 
     name : Jobs para atualizar dados
     run-on : ubuntu-latest
     passos :
